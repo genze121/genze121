@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Web Dev**
 
-<img align="right" alt="coding" height=300 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+<img align="right" alt="coding" height=350 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
