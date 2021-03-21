@@ -9,6 +9,7 @@ genze121/genze121 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 [About Tirtha](https://github.com/genze121)
 
 I like to solve problems. Throughout my career, I have been driven by my intellectual curiosity to find answers to the most pressing questions. Whether it’s finding a perfect song for a film or finding a rare product for a rocket, I’ve been able to quickly uncover a customer’s pain point and identify a strategic solution.
@@ -33,3 +34,4 @@ innovative ideas.
 Areas of Experience: Customer Insights, Product Management, SEO Optimization.
 
 I love traveling around the world, going on adrenaline-filled outdoor adventures, and learning new technologies to tackle the world with my new ideas.
+![LogoMakr_8vTGGG](https://user-images.githubusercontent.com/45147588/111911522-f88cdb00-8a8b-11eb-821b-37148853f8c4.png)
