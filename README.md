@@ -8,6 +8,7 @@
 genze121/genze121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![LogoMakr_8vTGGG](https://user-images.githubusercontent.com/45147588/111911522-f88cdb00-8a8b-11eb-821b-37148853f8c4.png)
 
 
 [About Tirtha](https://github.com/genze121)
@@ -34,4 +35,4 @@ innovative ideas.
 Areas of Experience: Customer Insights, Product Management, SEO Optimization.
 
 I love traveling around the world, going on adrenaline-filled outdoor adventures, and learning new technologies to tackle the world with my new ideas.
-![LogoMakr_8vTGGG](https://user-images.githubusercontent.com/45147588/111911522-f88cdb00-8a8b-11eb-821b-37148853f8c4.png)
+
