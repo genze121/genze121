@@ -12,6 +12,9 @@
 - 💬 Ask me about **Java, Web Dev**
 
 
+<img align="right" alt="coding" height=250 src="https://cdn.wallpapersafari.com/27/83/vwGKcj.gif">
+
+
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
