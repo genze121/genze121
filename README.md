@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot.**
+
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
+
+- 🔭 I’m currently working on **Spring Boot Project.**
 
 - 🌱 I’m currently learning **Data Science.**
 
