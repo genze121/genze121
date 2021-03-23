@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
-- 💬 Ask me about **Java Development, Web Development,Python Developement.**
+- 💬 Ask me about **Java Developement, Web Developement,Python Developement.**
 
 <img align="right" alt="coding" height=350 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 
