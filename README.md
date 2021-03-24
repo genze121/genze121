@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<hr>
 <img align="left" width="150" height="150" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
 <h1 align="center">Hi 👋, I'm Tirtha Sharma.</h1>
