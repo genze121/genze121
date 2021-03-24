@@ -7,8 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
+<img align="center" alt="coding" width=1000 height=500 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 
 
 - 🔭 I’m currently working on **Spring Boot Project.**
