@@ -39,7 +39,7 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tirthagenze121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tirthagenze121" height="30" width="40" /></a>
+<a href="https://twitter.com/tirthagenze121" style="color: #8ebf42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tirthagenze121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tirtha-sharma-563459114/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tirtha-sharma-563459114/" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma_tirtha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharma_tirtha" height="30" width="40" /></a>
 </p>
