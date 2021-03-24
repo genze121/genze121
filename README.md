@@ -2,8 +2,10 @@
 <hr>
 <img align="left" width="150" height="150" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
-<h1 align="center">Hi 👋, I'm Tirtha Sharma.</h1>
+<!--<h1 align="center">Hi 👋, I'm Tirtha Sharma.</h1>-->
+<h1 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !!! </h1>
 <h3 align="center">A passionate Full Stack Software developer from India.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genze121&label=Profile%20views&color=0e75b6&style=flat" alt="genze121" /> </p>
 
