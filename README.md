@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 <img align="left" width="150" height="150" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
 <h1 align="center">Hi 👋, I'm Tirtha Sharma.</h1>
@@ -47,7 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&locale=en" alt="genze121" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genze121&" alt="genze121" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genze121&" alt="genze121" /></p>-->
 
 <img alt="coding" height=400 src="https://cdn.wallpapersafari.com/27/83/vwGKcj.gif">
 
