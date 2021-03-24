@@ -33,6 +33,8 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
+- 😄 Pronouns: he/him/his
+
 - ⚡ Fun fact **I think I am Funny!!**
 
 <h3 align="left">Connect with me:</h3>
