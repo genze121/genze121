@@ -51,6 +51,7 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact" alt="genze121" /></p>
 
+<br><br>
 <!--<img widht=1000 height=350 src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&locale=en" alt="genze121" /></p>
