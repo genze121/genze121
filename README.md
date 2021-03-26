@@ -72,4 +72,9 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
   <img width="500" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 
+-----
+Credits: [Tirtha Sharma](https://github.com/genze121)
+
+Last Edited on: 26/03/2021
+
 
