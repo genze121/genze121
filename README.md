@@ -44,9 +44,11 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 <a href="https://instagram.com/sharma_tirtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharma_tirtha" height="30" width="40" /></a>
 </p>-->
 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/genze121/) 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="34">](https://instagram.com/sharma_tirtha) 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/tirthagenze121)
+ <a href="https://github.com/genze121/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tirtha-sharma-563459114/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/sharma_tirtha/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/tirthagenze121"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+ 
  
 
 <h3 align="left">Languages and Tools:</h3>
