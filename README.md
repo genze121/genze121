@@ -19,7 +19,7 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 <img align="center" alt="Dino" width=1000 height=300 src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 
-
+-----
 
 - 🔭 I’m currently working on **Spring Boot Project.**
 
