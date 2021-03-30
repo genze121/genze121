@@ -29,7 +29,7 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 - 💬 Ask me about **Java Developement, Web Developement,Python Developement.**
 
-<img align="right" alt="coding" height=350 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+<img align="right" alt="coding" height=250 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
