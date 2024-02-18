@@ -21,13 +21,13 @@ A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 -----
 
-- 🔭 I’m currently working on **Spring Boot Project.**
+- 🔭 I’m currently working on **Front End Developement Ecosystem.**
 
 - 🌱 I’m currently learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
-- 💬 Ask me about **Java Developement, Web Developement,Python Developement.**
+- 💬 Ask me about **Java Developement, Web Developement, Python Developement.**
 
 <img align="right" alt="coding" height=250 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 
