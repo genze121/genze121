@@ -23,7 +23,7 @@ A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 - 🔭 I’m currently working on **Front End Development Ecosystem.**
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently exploring and learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
@@ -38,20 +38,14 @@ A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 - ⚡ Fun fact **I think I am Funny!!**
 
 <h3 align="left">Connect with me:</h3>
-<!--<p align="left">
-<a href="https://twitter.com/tirthagenze121" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tirthagenze121" height="30" width="40"  /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tirtha-sharma-563459114/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tirtha-sharma-563459114/" height="30" width="40" /></a>
-<a href="https://instagram.com/sharma_tirtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharma_tirtha" height="30" width="40" /></a>
-</p>-->
 
- <a href="https://github.com/genze121/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
- <a href="https://www.linkedin.com/in/tirthasharma/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
- <a href="https://www.instagram.com/sharma_the_developer/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
- <a href="https://twitter.com/tirthagenze121"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="40" height="40" />
+ <a href="https://github.com/genze121/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" title="Github"/></a>
+ <a href="https://www.linkedin.com/in/tirthasharma/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
+ <a href="https://www.instagram.com/sharma_the_developer/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" title="Instagram"/></a>
+  <a href="https://twitter.com/tirthagenze121/"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter" title="Twitter"/></a>
 </a>
- 
- 
 
+ 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
