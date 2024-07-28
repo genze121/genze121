@@ -4,7 +4,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Tirtha Sharma.</h1>-->
 <h1 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !!! </h1>
-<h3 align="center"> A Passionate Full-Stack Software Engineer from India ❤ </h3>
+<h3 align="center"> A Passionate Full-Stack Software Developement Engineer from India ❤ </h3>
 
 A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Software Development.:bar_chart: I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
 
