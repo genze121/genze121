@@ -31,7 +31,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-### 🚀 More about me
+### 🏋 More about me
 
 - 🔭 I’m currently working on **Front End Development Ecosystem.**
 
@@ -43,7 +43,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - 💬 Ask me about **Java Development, Web Development, Python Development.**
 
-<img align="right" alt="coding" height=250 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
+<img align="right" height="250" width="320" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
 
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
@@ -138,7 +138,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-### 📊 Github Stats
+### 📈 Github Stats
 
  <table>
   <tr>
@@ -150,6 +150,10 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="genze121" width="1000"/></p>
 
 [![Tirtha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/genze121/github-readme-activity-graph)
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=750  alt="stats graph"/>
+</div>
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
