@@ -6,9 +6,12 @@
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
+**`Full Stack Developer`**
+
 <img align="left" width="170" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
-<h2 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> !!! </h2>
+<h2 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> !!! </h2>
 
 <h3 align="center"> A Passionate Full-Stack Software Developement Engineer from India ❤ </h3>
 
@@ -27,6 +30,8 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 <img align="center" alt="Dino" width=1000 height=300 src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
+
+### 🚀 More about me
 
 - 🔭 I’m currently working on **Front End Development Ecosystem.**
 
@@ -51,6 +56,8 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 - :octocat: **Hobbies: Sleeping, Gacha Games, Discord** 
 
 - 🥷 **Tough times never last, but tough people do.**
+
+ ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 ### 🔗 Connect with me
 
@@ -94,6 +101,10 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 Credits: [Tirtha Sharma](https://github.com/genze121)
 
-<h2 align="center"> Developed with ❤️ in India 🇮🇳 </h2>
+Developed with ❤️ in India 🇮🇳
+
+![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
+
+<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="center" width=1000 height=400/> </a>
 
 
