@@ -131,7 +131,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Competitive Coding:</td>
         <td>
-<a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://leetcode.com/tirthasharma991/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
        </td>
  </tr>
 </table>
