@@ -6,8 +6,7 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !!! </h1>
 <h3 align="center"> A Passionate Full-Stack Software Developement Engineer from India ❤ </h3>
 
-A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Software Development.:bar_chart: I like automating things, building pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
-
+A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development.:bar_chart: I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genze121&label=Profile%20views&color=0e75b6&style=flat" alt="genze121" /> </p>
 
@@ -27,6 +26,8 @@ A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
+- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder.**
+
 - 💬 Ask me about **Java Development, Web Development, Python Development.**
 
 <img align="right" alt="coding" height=250 src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
@@ -36,6 +37,8 @@ A 27 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 - 😄 Pronouns: he/him/his
 
 - ⚡ Fun fact **I think I am Funny!!**
+
+- 🥷 **Tough times never last, but tough people do.**
 
 <h3 align="left">Connect with me:</h3>
 
