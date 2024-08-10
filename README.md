@@ -107,6 +107,15 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">APIs Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman"/></td>
+    </tr>
+ <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Hosting:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=netlify,vercel"/> 
+       </td>
+ </tr>
 <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI Tools:</td>
     <td>
@@ -114,6 +123,17 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta"/>
     </td>
 </tr>
+ <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning Platforms:</td>
+        <td><a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+        </td>
+   </tr>
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Competitive Coding:</td>
+        <td>
+<a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+       </td>
+ </tr>
 </table>
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
