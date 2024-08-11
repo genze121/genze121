@@ -15,7 +15,7 @@
 
 <h3 align="center"> A Passionate Full-Stack Software Developement Engineer from India ❤ </h3>
 
-A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development.:bar_chart: I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
+A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development. 📊 I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
@@ -23,7 +23,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=genze121&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=genze121&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
@@ -45,7 +45,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - 💬 Ask me about **Java Development, Web Development, Python Development.**
 
-<img align="right" height="250" width="320" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
+<img align="right" height="300" width="550" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
 
 - 📫 How to reach me **tirthagenze121@gmail.com**
 
@@ -55,9 +55,9 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - ☕ Interest: **Cats, Coffee, and Coding.**
 
-- :octocat: **Hobbies: Sleeping, Gacha Games, Discord** 
+- :octocat: **Hobbies: Sleeping, Gacha Games, Discord.** 
 
-- 🥷 **Tough times never last, but tough people do.**
+- 🥷 Quote: **Tough times never last, but tough people do.**
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
@@ -110,7 +110,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
   <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">APIs Tools:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">API Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postman"/></td>
     </tr>
  <tr>
@@ -128,6 +128,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
  <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning Platforms:</td>
         <td><a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+         <img src="https://img.shields.io/badge/youtube-27273D?style=for-the-badge&logo=youtube&logoColor=red" />
         </td>
    </tr>
   <tr>
@@ -154,7 +155,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 [![Tirtha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/genze121/github-readme-activity-graph)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=1000  alt="stats graph"/>
 </div>
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
@@ -169,12 +170,12 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 Credits: [Tirtha Sharma](https://github.com/genze121)
 
-<img height="40" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="40" alt="Thanks for visiting me" width="1000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 Developed with ❤️ in India 🇮🇳
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="center" width=1000 height=400/> </a>
+<a href="https://ko-fi.com/tirthasharma"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="center" width=1000 height=400/> </a>
 
 
