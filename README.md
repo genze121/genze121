@@ -128,7 +128,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
  <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning Platforms:</td>
         <td><a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-         <img src="https://img.shields.io/badge/youtube-27273D?style=for-the-badge&logo=youtube&logoColor=red" />
+         <img src="https://img.shields.io/badge/youtube-EC5252?style=for-the-badge&logo=youtube&logoColor=white" />
         </td>
    </tr>
   <tr>
