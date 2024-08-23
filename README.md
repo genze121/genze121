@@ -168,11 +168,16 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-Credits: [Tirtha Sharma](https://github.com/genze121)
+## Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
 
 <img height="40" alt="Thanks for visiting me" width="1000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-Developed with ❤️ in India 🇮🇳
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/genze121/count.svg" />
+</p>
+
+## Developed with ❤️ in India 🇮🇳
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
