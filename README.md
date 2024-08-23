@@ -19,7 +19,10 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genze121&label=Profile%20views&color=0e75b6&style=flat" alt="genze121" /> </p>
+<p align="left"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ <img src="https://komarev.com/ghpvc/?username=genze121&label=Profile%20views&color=0e75b6&style=flat" alt="genze121" />
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -174,7 +177,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-## Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
+## Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma") 
 
 <img height="40" alt="Thanks for visiting me" width="1000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
