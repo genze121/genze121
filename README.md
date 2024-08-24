@@ -44,7 +44,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
-- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder.**
+- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder** to boost the productivity.
 
 - 💬 Ask me about **Java Development, Web Development, Python Development.**
 
@@ -58,7 +58,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - ☕ Interest: **Cats, Coffee, and Coding.**
 
-- :octocat: **Hobbies: Sleeping, Gacha Games, Discord.** 
+- :octocat: **Hobbies: Building Products, Games.** 
 
 - 🥷 Quote: **Tough times never last, but tough people do.**
 
