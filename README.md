@@ -30,6 +30,8 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="300">
+
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000" height="300">
 
 <img align="center" alt="coding" width=1000 height=400 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
