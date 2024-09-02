@@ -30,9 +30,11 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000" height="300">
+
 <img align="center" alt="coding" width=1000 height=400 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img align="center" alt="Dino" width=1000 height=300 src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="200" alt="Dino">
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
@@ -174,6 +176,8 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <img alt="coding" width=1000 height=400 src="https://cdn.wallpapersafari.com/27/83/vwGKcj.gif">
+
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="1000">
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
