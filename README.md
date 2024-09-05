@@ -153,7 +153,8 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
  <table>
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="genze121"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="genze121"/></td
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true" alt="Github Stats"/>
+    </td
   </tr>
 </table>
 
