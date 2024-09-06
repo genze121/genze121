@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=40&lines=Hey%2C+I'm+Tirtha Sharma+Welcome+to+my+Profile!" align=" middle" alt=" Hey, I'm Tirtha Sharma Welcome to my Profile! animated typed out" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tirtha+Sharma;Welcome+To+My+Profile!" alt=" Hey, I'm Tirtha Sharma Welcome to my Profile! animated typed out" />
+</p>
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
