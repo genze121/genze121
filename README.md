@@ -34,7 +34,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=genze121&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=genze121&theme=nord&column=8&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
