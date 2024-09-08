@@ -9,16 +9,21 @@
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-**`Full Stack Developer`**
+**`Full Stack Software Developer`**
 
-<img align="left" width="170" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
+<img align="left" width="230" height="250" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
-<h2 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> !!! </h2>
+<h3 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
+<span>
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> !!!
+</span>
+</h3>
 
 <h3 align="center"> A Passionate Full-Stack Software Developement Engineer from India ❤ </h3>
 
-A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development. 📊 I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, new: Innovation and Automation :robot: 
+-----
+
+A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development. 📊 I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
