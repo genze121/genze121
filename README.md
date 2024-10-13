@@ -11,7 +11,7 @@
 
 **`Full Stack Software Developer`**
 
-<img align="left" width="230" height="250" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
+<img align="left" width="250" height="250" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
 
 <h3 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
 <span>
