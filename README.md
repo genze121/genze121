@@ -61,7 +61,7 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 <img align="right" height="300" width="550" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
 
-- 📫 How to reach me **tirthagenze121@gmail.com**
+- 📫 How to reach me **tirthagenze121@gmail.com** **,** **https://x.com/tirthagenze121**
 
 - 😄 Pronouns: he/him/his
 
