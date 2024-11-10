@@ -55,13 +55,13 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
-- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder** to boost the productivity.
+- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder** to boost productivity.
 
 - 💬 Ask me about **Java Development, Web Development, Python Development.**
 
 <img align="right" height="300" width="550" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
 
-- 📫 How to reach me **tirthagenze121@gmail.com** **,** **https://x.com/tirthagenze121**
+- 📫 How to reach me **tirthagenze121@gmail.com**
 
 - 😄 Pronouns: he/him/his
 
