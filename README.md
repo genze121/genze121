@@ -195,8 +195,6 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ## Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma") 
 
-## Twitter: [Twitter - Click to follow ](https://x.com/tirthagenze121 "Tirtha Sharma")
-
 <img height="40" alt="Thanks for visiting me" width="1000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center"> 
