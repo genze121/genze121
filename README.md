@@ -14,7 +14,7 @@
 
 <h3 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
 <span>
-   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> !!!
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 </span>
 </h3>
 
