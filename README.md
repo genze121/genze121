@@ -1,3 +1,5 @@
+![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Tirtha+Sharma;Welcome+To+My+Profile!" alt="Hey, I'm Tirtha Sharma | Welcome to my profile!" />
 </p>
