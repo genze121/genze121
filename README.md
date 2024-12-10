@@ -204,9 +204,14 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
   <img src="https://profile-counter.glitch.me/genze121/count.svg" />
 </p>
 
-## Developed with ❤️ in India 🇮🇳
+> Developed with ❤️ in India 🇮🇳
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <a href="https://ko-fi.com/tirthasharma"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="center" width=1000 height=500/> </a>
 
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
