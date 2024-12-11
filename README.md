@@ -161,18 +161,18 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
  <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="genze121"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true" alt="Github Stats"/>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false" alt="genze121"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=false" alt="GitHub Stats"/>
     </td
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="genze121" width="1000"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false" alt="genze121" width="1000"/></p>
 
-[![Tirtha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/genze121/github-readme-activity-graph)
+[![Tirtha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=false)](https://github.com/genze121/github-readme-activity-graph)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=1000  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=1000  alt="Profile Summary Cards"/>
 </div>
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
