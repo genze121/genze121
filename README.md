@@ -8,6 +8,8 @@
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
+<img alt="Coding" width="1000" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 **`Full Stack Software Developer`**
