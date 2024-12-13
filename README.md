@@ -26,7 +26,21 @@
 
 -----
 
-A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'm passionate about Full-Stack Software Development. 📊 I like automating things, building products, and pipelines, exploring scalability problems, and improving efficiency and performance. :cloud: Cloud Computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+🚀 27 Y/O Software and Web Development Engineer from India 🌏.
+
+💻 Passionate about crafting innovative solutions in Full-Stack Software Development, blending creativity with technology to solve complex challenges.<br /><br />
+
+✨ **I thrive on:-**
+
+   - 🤖 **Automation:-** Simplifying workflows, building efficient pipelines, and eliminating redundancies.<br />
+   - 🛠️ **Product Development:-** Designing scalable, user-centric applications that drive impact.<br />
+   - 📈 **Scalability Solutions:-** Tackling challenges in scaling systems while enhancing performance and efficiency.<br />
+   
+- ☁️ **Cloud Computing Enthusiast:-** Harnessing the power of the cloud to deliver robust and flexible solutions.<br />
+- 🚀 **DevOps Advocate:-** Bridging the gap between development and operations for seamless integration.<br />
+- 🤖 **Innovation and Automation:-** Always exploring new ways to integrate intelligent systems into everyday tasks.<br />
+
+
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
@@ -41,9 +55,11 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 <p align="left"> <a href="https://twitter.com/tirthagenze121" target="blank"><img src="https://img.shields.io/twitter/follow/tirthagenze121?logo=twitter&style=for-the-badge" alt="tirthagenze121" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="300">
+![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000" height="300">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="400">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000" height="400">
 
 <img align="center" alt="coding" width=1000 height=400 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -53,29 +69,35 @@ A 27 Y/O 🧑‍💻Software🌈 and Web Development Engineer🎯 from India. I'
 
 ### 🏋 More about me
 
-- 🔭 I’m currently working on **Front End Development Ecosystem.**
+- 🔭 **Currently Building:-** Scalable and high-performing solutions within the **Front-End Development ecosystem.**
 
-- 🌱 I’m currently exploring and learning **Data Science.**
+- 🌱 **Lifelong Learner:-** Actively exploring **Data Science** to expand my skill set and discover new opportunities.
 
-- 👯 I’m looking to collaborate on **Open Source.**
+- 👯 **Collaboration Enthusiast:-** Open to contributing to innovative Open Source projects that create impact.
 
-- 🕷️ Leveraging the art of using AI-based tools like **ChatGPT, Perplexity.ai, and LLama Coder** to boost productivity.
+- 🕷️ **AI Advocate:-** Harnessing the power of AI tools like **ChatGPT**, **Perplexity.ai**, **Bolt.new**, **GitHub Copilot**, **Cursor AI**, **Claude**, and **MidJourney** to optimize                              workflows, boost creativity, and supercharge productivity.
 
-- 💬 Ask me about **Java Development, Web Development, Python Development.**
+- 💬 **Ask Me About:-**
+  
+  -  **Java Development:-** Efficient and clean backend solutions.
+  -  **Web Development:-** Interactive and responsive front-end experiences.
+  -  **Python Development:-** Data-driven applications and scripts.
 
 <img align="right" height="300" width="550" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
 
-- 📫 How to reach me **tirthagenze121@gmail.com**
+- 📫 **How to reach me:-** **tirthagenze121@gmail.com**
 
-- 😄 Pronouns: he/him/his
+- 😄 **Pronouns:-** He/Him/His
 
-- ⚡ Fun fact: **I think I am Funny !!**
+- ⚡ **Fun Fact:-** My humor might surprise you—I think I’m funny (and I often am!).
 
-- ☕ Interest: **Cats, Coffee, and Coding.**
+- ☕ **Interests:** A perfect blend of **Cats**, **Coffee**, and **Coding** keeps me motivated.
 
-- :octocat: **Hobbies: Building Products, Games.** 
+- 🎮 **Hobbies:-** Crafting innovative products and immersive games.
 
-- 🥷 Quote: **Tough times never last, but tough people do.**
+- 🥷 **Quote I Live By:-** <i>"Tough times never last, but tough people do."</i>
+
+- 🚀 **Tech Visionary:-** Continuously pushing the boundaries of what’s possible by blending **artistry**, **technology**, and **collaboration** to craft solutions that inspire and transform.
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
