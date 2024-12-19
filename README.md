@@ -101,7 +101,7 @@
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-### 🔗 Connect with me
+### 🔗 Connect with me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" />
 
  <a href="https://github.com/genze121/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" title="Github"/></a>
  <a href="https://www.linkedin.com/in/tirthasharma/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
