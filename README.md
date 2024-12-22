@@ -161,9 +161,11 @@
 <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI Tools:</td>
     <td>
-     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT"/>
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta"/>
+      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT"/>
+      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" title="Meta"/>
+      <img height="40" src="https://www.cursor.so/favicon.ico" alt="Cursor AI" title="Cursor AI"/>
     </td>
+
 </tr>
  <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning Platforms:</td>
