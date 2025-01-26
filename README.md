@@ -230,11 +230,40 @@
   <img src="https://profile-counter.glitch.me/genze121/count.svg" />
 </p>
 
-> Developed with ❤️ in India 🇮🇳
+```mermaid
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Find Tirtha's Profile] --> bottom1[Hire Tirtha 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem 🐛] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem 🐛] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "https://www.linkedin.com/in/tirthasharma/" "LinkedIn"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
+```
+
+    > Developed with ❤️ in India 🇮🇳
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <a href="https://ko-fi.com/tirthasharma"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="center" width=1000 height=500/> </a>
+
+![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <div align="center">
     <a href="#top">
