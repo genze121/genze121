@@ -223,7 +223,7 @@
 
 ## Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma") 
 
-<img height="40" alt="Thanks for visiting me" width="1000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center"> 
   Visitors Count<br>
