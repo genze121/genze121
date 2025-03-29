@@ -14,7 +14,9 @@
 
 **`Full Stack Software Developer`**
 
-<img align="left" width="250" height="250" alt="Tirtha Sharma" src="https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png"/>
+<!-- https://user-images.githubusercontent.com/45147588/112335509-4f8bed80-8ce2-11eb-9ee5-93de00d035a7.png -->
+
+<img align="left" width="250" height="250" alt="Tirtha Sharma" src="https://github.com/user-attachments/assets/47d50bab-1d47-497e-8b6b-f5d9bb979a2d"/>
 
 <h3 align="center"> नमस्ते (Namaste), I'm Tirtha Sharma 
 <span>
@@ -26,7 +28,7 @@
 
 -----
 
-🚀 27 Y/O Software and Web Development Engineer from India 🌏.
+🚀 28 Y/O Software and Web Development Engineer from India 🌏.
 
 💻 Passionate about crafting innovative solutions in Full-Stack Software Development, blending creativity with technology to solve complex challenges.<br /><br />
 
