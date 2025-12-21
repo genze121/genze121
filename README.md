@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=250&section=header&text=Tirtha%20Sharma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=250&section=header&text=Tirtha%20Sharma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Development%20Engineer&descAlignY=55&descSize=20" width="1000"/>
 </div>
 
 <p align="center">
