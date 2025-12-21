@@ -1,9 +1,9 @@
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <div align="center">
-
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=250&section=header&text=Tirtha%20Sharma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="1000"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
@@ -255,7 +255,7 @@ flowchart LR
     1 --> outside1["Profit" 📈]
     2 --> outside2["Cry" 😢]
 
-    Click top1 "https://www.linkedin.com/in/tirthasharma/" "LinkedIn"
+    click top1 "https://www.linkedin.com/in/tirthasharma/" "LinkedIn"
 
     style 1 stroke:#072ff7,stroke-width:5px
     style 2 stroke:#f70707,stroke-width:5px
