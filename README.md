@@ -82,7 +82,7 @@
 
 - 🕷️ **AI Advocate:-** Harnessing the power of AI tools like **ChatGPT**, **Perplexity.ai**, **Bolt.new**, **GitHub Copilot**, **Cursor AI**, **Claude**, and **MidJourney** to optimize                              workflows, boost creativity, and supercharge productivity.
 
-- 💬 **Ask Me About:-** <img align="right" src="message.gif" width="400" height="300"/>
+- 💬 **Ask Me About:-** <img align="right" src="message.gif" width="300" height="300"/>
   
   -  **Java Development:-** Efficient and clean backend solutions.
   -  **Web Development:-** Interactive and responsive front-end experiences.
