@@ -196,7 +196,7 @@
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false" alt="genze121"/></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=false" alt="GitHub Stats"/>
-    </td
+    </td>
   </tr>
 </table>
 
@@ -225,6 +225,8 @@
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <img alt="coding" width=1000 height=400 src="https://cdn.wallpapersafari.com/27/83/vwGKcj.gif">
+
+<img src="animation.gif" alt="animation.gif" width="1000">
 
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="1000">
 
