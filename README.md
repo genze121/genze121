@@ -47,8 +47,6 @@
 - 🚀 **DevOps Advocate:-** Bridging the gap between development and operations for seamless integration.<br />
 - 🤖 **Innovation and Automation:-** Always exploring new ways to integrate intelligent systems into everyday tasks.<br />
 
-
-
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 <p align="left"> 
@@ -84,7 +82,7 @@
 
 - 🕷️ **AI Advocate:-** Harnessing the power of AI tools like **ChatGPT**, **Perplexity.ai**, **Bolt.new**, **GitHub Copilot**, **Cursor AI**, **Claude**, and **MidJourney** to optimize                              workflows, boost creativity, and supercharge productivity.
 
-- 💬 **Ask Me About:-**
+- 💬 **Ask Me About:-** <img align="right" src="message.gif" width="400" height="300"/>
   
   -  **Java Development:-** Efficient and clean backend solutions.
   -  **Web Development:-** Interactive and responsive front-end experiences.
