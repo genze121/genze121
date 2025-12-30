@@ -194,8 +194,15 @@
 
  <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genze121&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false" alt="genze121"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=false" alt="GitHub Stats"/>
+    <td>
+      <a href="https://github.com/bloedboemmel">
+        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast" height="200"/>  
+      </a>
+    </td>
+    <td>
+       <a href="https://github.com/bloedboemmel">
+        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=genze121&theme=highcontrast"  height="200"/>
+      </a>
     </td>
   </tr>
 </table>
