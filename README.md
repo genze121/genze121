@@ -194,14 +194,14 @@
 
  <table>
   <tr>
-    <td>
+    <td width="1000">
       <a href="https://github.com/bloedboemmel">
-        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast" height="200"/>  
+        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast" height="500" width="1000"/>  
       </a>
     </td>
-    <td>
+    <td width="1000">
        <a href="https://github.com/bloedboemmel">
-        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=genze121&theme=highcontrast"  height="200"/>
+        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=genze121&theme=highcontrast" height="400" width="1000"/>
       </a>
     </td>
   </tr>
