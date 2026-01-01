@@ -196,22 +196,27 @@
   <tr>
     <td width="1000">
       <a href="https://github.com/bloedboemmel">
-        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast" height="500" width="1000"/>  
+         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tirtha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=genze121&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000" height="400px"/></a>
       </a>
     </td>
     <td width="1000">
-       <a href="https://github.com/bloedboemmel">
-        <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=genze121&theme=highcontrast" height="400" width="1000"/>
-      </a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tirtha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=genze121&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="1000" height="400"/></a>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=genze121&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak" width="1000"/>
-</div>
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=genze121&theme=monokai-metallian&hide_border=true&short_numbers=true" width="1000" height="400"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-[![Tirtha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=false)](https://github.com/genze121/github-readme-activity-graph)
+<!-- [![Tirtha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genze121&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=false)](https://github.com/genze121/github-readme-activity-graph) -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tirtha's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=genze121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genze121&theme=bear" width=1000  alt="Profile Summary Cards"/>
