@@ -2,11 +2,11 @@
 
 <div align="center">
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=250&section=header&text=Tirtha%20Sharma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Development%20Engineer&descAlignY=55&descSize=30" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=250&section=header&text=Tirtha%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Development%20Engineer&descAlignY=55&descSize=30" width="1000"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
 </p>
 
 <img src="Github_Readme.png" width="1000" />
