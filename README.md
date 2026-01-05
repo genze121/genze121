@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
 </p>
 
 <img src="Github_Readme.png" width="1000" />
