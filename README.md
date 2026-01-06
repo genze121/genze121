@@ -35,7 +35,7 @@
 
 -----
 
-🚀 28 Y/O Software and Web Development Engineer from India 🌏.
+🚀 29 Y/O Software and Web Development Engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">.
 
 💻 Passionate about crafting innovative solutions in Full-Stack Software Development, blending creativity with technology to solve complex challenges.<br /><br />
 
