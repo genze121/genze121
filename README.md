@@ -208,7 +208,7 @@
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=genze121&theme=monokai-metallian&hide_border=true&short_numbers=true" width="1000" height="600"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tirtha's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=genze121&theme=monokai-metallian&hide_border=true&short_numbers=true" width="1000" height="600"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
