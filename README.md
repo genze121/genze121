@@ -196,7 +196,8 @@
   <tr>
     <td width="1000">
       <a href="https://github.com/bloedboemmel">
-         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tirtha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=genze121&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000" height="400px"/></a>
+         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tirtha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=genze121&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000" height="400px"/>  
+         </a>
       </a>
     </td>
     <td width="1000">
