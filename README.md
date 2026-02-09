@@ -25,7 +25,7 @@
 
 <img align="left" width="250" height="250" alt="Tirtha Sharma" src="https://github.com/user-attachments/assets/47d50bab-1d47-497e-8b6b-f5d9bb979a2d"/>
 
-<h3 align="center"> 🙏🙏 नमस्ते (Namaste), I'm Tirtha Sharma 
+<h3 align="center"> 🙏🙏 नमस्ते (Namaste), I'm Tirtha Sharma 😌😌
 <span>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 </span>
