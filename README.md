@@ -56,6 +56,10 @@
  <img src="https://komarev.com/ghpvc/?username=genze121&label=Profile%20views&color=0e75b6&style=flat" alt="genze121" />
 </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-trophies.vercel.app/?username=genze121&theme=onedark&margin-w=15&margin-h=15&column=8)](https://github.com/lucthienphong1120/github-trophies)
