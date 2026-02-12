@@ -35,7 +35,7 @@
 
 -----
 
-🚀 30 Y/O **Full Stack Software Development Engineer** from **India** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">.
+🚀🎯 30 Y/O **Full Stack Software Development Engineer** from **India**.
 
 💻 Passionate about **crafting innovative solutions** in **Full-Stack Software Development**, blending **creativity** with technology to solve **complex** challenges.<br /><br />
 
