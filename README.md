@@ -35,7 +35,7 @@
 
 -----
 
-🚀🎯 30 Y/O **Full Stack Software Development Engineer** from **India**.
+🚀🎯🧑‍💻 30 Y/O **Full Stack Software Development Engineer** from **India**.
 
 💻 Passionate about **crafting innovative solutions** in **Full-Stack Software Development**, blending **creativity** with technology to solve **complex** challenges.<br /><br />
 
