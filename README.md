@@ -188,6 +188,7 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Competitive Coding:</td>
         <td>
 <a href="https://leetcode.com/tirthasharma991/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+          <a href="https://www.hackerrank.com/profile/tirthasharma991"><img src="https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=Hackerrank&logoColor=green"/></a>
        </td>
  </tr>
 </table>
