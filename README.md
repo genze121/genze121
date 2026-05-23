@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&color=FF0000&background=000000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Tirtha+Sharma+💻;Welcome+To+My+Profile+🎯;Building+Quality+Software+🚀" alt="Hey, I'm Tirtha Sharma 💻 | Welcome to my profile 🎯 Building Quality Software 🚀" />
 </p>
 
+<img width="1983" height="793" alt="ChatGPT Image May 23, 2026, 04_39_55 PM" src="https://github.com/user-attachments/assets/30880e36-38ed-4ab9-a0c9-74612fa948a6" />
+
 <img src="Github_Readme.png" width="1000" />
 
 ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
